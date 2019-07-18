@@ -13,7 +13,7 @@
      return "I like to help people."
    }
 
-   thisBoardMember.prototype.releasePressStatement = function(){
+   BoardMember.prototype.releasePressStatement = function(){
      return "You will see great things from Scuber."
    }
 
