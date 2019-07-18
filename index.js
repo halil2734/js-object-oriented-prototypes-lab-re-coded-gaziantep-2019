@@ -22,7 +22,8 @@
    }
  }
  
- /*describe('boardMembers', function() {
+/*
+describe('boardMembers', function() {
   let polishedBoardMember;
   let backSlappingGene;
   before(() => {
